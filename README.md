@@ -14,7 +14,6 @@
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xjh22222228/nav" />
     <a href="https://hits.dwyl.com/xjh22222228/nav">
-      <img src="https://hits.dwyl.com/xjh22222228/nav.svg" />
     </a>
   </p>
 </p>
@@ -30,9 +29,3 @@
 - [Light 在线预览](https://nav.boba.cat/#/light)
 - [Side 在线预览](https://nav.boba.cat/#/side)
 - [App 在线预览](https://nav.boba.cat/#/app)
-
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/3.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/4.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/5.png)
