@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2019-2021 Boba.cat, All Rights Reserved</div>
+    <div>Copyright © 2019-2021 <a href="https://boba.cat">Boba.cat</a>, All Rights Reserved</div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?9230c863eb8a88572bcb84701172eb80',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
