@@ -95,13 +95,18 @@ async function build() {
   if (baiduStatisticsUrl) {
     t = t.replace('<!-- nav.script -->', scriptTemplate)
   }
-
+/**
   t = t.replace('assets/logo.png', `https://raw.sevencdn.com/${authorName}/${repoName}/image/logo.png`)
   t = t.replace('assets/logo.png', `https://raw.sevencdn.com/${authorName}/${repoName}/image/logo.png`)
   t = t.replace('assets/logo.png', `https://raw.sevencdn.com/${authorName}/${repoName}/image/logo.png`)
   t = t.replace('assets/logo.png', `https://raw.sevencdn.com/${authorName}/${repoName}/image/logo.png`)
   t = t.replace('assets/logo.png', `https://raw.sevencdn.com/${authorName}/${repoName}/image/logo.png`)
-
+*/
+  t = t.replace('assets/logo.png', `https://boba.cat/wp-content/uploads/2021/06/nav_logo.png`)
+  t = t.replace('assets/logo.png', `https://boba.cat/wp-content/uploads/2021/06/nav_logo.png`)
+  t = t.replace('assets/logo.png', `https://boba.cat/wp-content/uploads/2021/06/nav_logo.png`)
+  t = t.replace('assets/logo.png', `https://boba.cat/wp-content/uploads/2021/06/nav_logo.png`)
+  t = t.replace('assets/logo.png', `https://boba.cat/wp-content/uploads/2021/06/nav_logo.png`)
   t = t.replace('<!-- nav.seo -->', seoTemplate)
 
   fs.writeFileSync(htmlPath, t, { encoding: 'utf-8' })
