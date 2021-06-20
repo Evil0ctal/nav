@@ -14,13 +14,13 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://mycyberpunk.com',
+  homeUrl: 'https://boba.cat',
 
   // 网站标题
-  title: '波霸猫导航 - 精选实用导航网站',
+  title: '猫猫导航 - 精选实用导航网站',
 
   // 网站描述
-  description: '波霸猫导航 - 精选实用导航网站',
+  description: '猫猫导航 - 精选实用导航网站',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js,波霸猫,我的世界,Minecraft,服务器',
@@ -50,7 +50,7 @@ const c: IConfig = {
   simThemeConfig: {
     // 海报图
     posterImageUrls: [
-      'https://boba.cat/wp-content/uploads/2021/05/bilibili.png'
+      'https://boba.cat/wp-content/uploads/2021/06/nav_backguard.jpg'
     ],
     description: '这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活'
   }
